@@ -1,0 +1,51 @@
+Removing stale pidfile /home/hq/git/csdn/twistd.pid
+2019-04-17T20:32:46+0800 [-] Removing stale pidfile /home/hq/git/csdn/twistd.pid
+2019-04-17T20:32:46+0800 [-] Loading /usr/local/lib/python2.7/dist-packages/scrapyd/txapp.py...
+2019-04-17T20:32:46+0800 [-] Scrapyd web console available at http://0.0.0.0:6800/
+2019-04-17T20:32:46+0800 [-] Loaded.
+2019-04-17T20:32:46+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 18.4.0rc1 (/usr/bin/python 2.7.15) starting up.
+2019-04-17T20:32:46+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2019-04-17T20:32:46+0800 [-] Site starting on 6800
+2019-04-17T20:32:46+0800 [twisted.web.server.Site#info] Starting factory <twisted.web.server.Site instance at 0x7fe01173d368>
+2019-04-17T20:32:46+0800 [Launcher] Scrapyd 1.2.0 started: max_proc=16, runner=u'scrapyd.runner'
+2019-04-17T20:34:29+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:34:28 +0000] "POST /addversion.json HTTP/1.1" 200 115 "-" "Python-urllib/2.7"
+2019-04-17T20:36:48+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:36:47 +0000] "POST /schedule.json HTTP/1.1" 200 102 "-" "curl/7.58.0"
+2019-04-17T20:36:51+0800 [-] Process started:  project='csdn' spider='csdn_first' job='7815b522610d11e9ab2bd0577b09417e' pid=10824 log='logs/csdn/csdn_first/7815b522610d11e9ab2bd0577b09417e.log' items=None
+2019-04-17T20:36:52+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:36:51 +0000] "POST /schedule.json HTTP/1.1" 200 102 "-" "curl/7.58.0"
+2019-04-17T20:36:54+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:36:53 +0000] "POST /schedule.json HTTP/1.1" 200 102 "-" "curl/7.58.0"
+2019-04-17T20:36:56+0800 [-] Process started:  project='csdn' spider='csdn_first' job='7a0e5da2610d11e9ab2bd0577b09417e' pid=10836 log='logs/csdn/csdn_first/7a0e5da2610d11e9ab2bd0577b09417e.log' items=None
+2019-04-17T20:36:56+0800 [-] Process finished:  project='csdn' spider='csdn_first' job='7815b522610d11e9ab2bd0577b09417e' pid=10824 log='logs/csdn/csdn_first/7815b522610d11e9ab2bd0577b09417e.log' items=None
+2019-04-17T20:36:59+0800 [-] Process finished:  project='csdn' spider='csdn_first' job='7a0e5da2610d11e9ab2bd0577b09417e' pid=10836 log='logs/csdn/csdn_first/7a0e5da2610d11e9ab2bd0577b09417e.log' items=None
+2019-04-17T20:37:01+0800 [-] Process started:  project='csdn' spider='csdn_first' job='7b86f5ea610d11e9ab2bd0577b09417e' pid=10851 log='logs/csdn/csdn_first/7b86f5ea610d11e9ab2bd0577b09417e.log' items=None
+2019-04-17T20:37:04+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:37:03 +0000] "GET / HTTP/1.1" 200 712 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T20:37:04+0800 [-] Process finished:  project='csdn' spider='csdn_first' job='7b86f5ea610d11e9ab2bd0577b09417e' pid=10851 log='logs/csdn/csdn_first/7b86f5ea610d11e9ab2bd0577b09417e.log' items=None
+2019-04-17T20:37:04+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:37:03 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://localhost:6800/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T20:37:05+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:37:04 +0000] "GET /jobs HTTP/1.1" 200 1201 "http://localhost:6800/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T20:37:08+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:12:37:07 +0000] "GET /logs/csdn/csdn_first/7815b522610d11e9ab2bd0577b09417e.log HTTP/1.1" 200 4163 "http://localhost:6800/jobs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T20:38:08+0800 [twisted.web.http.HTTPChannel#info] Timing out client: IPv4Address(TCP, '127.0.0.1', 40858)
+2019-04-17T21:05:03+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:02 +0000] "POST /addversion.json HTTP/1.1" 200 115 "-" "Python-urllib/2.7"
+2019-04-17T21:05:07+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:06 +0000] "POST /schedule.json HTTP/1.1" 200 102 "-" "curl/7.58.0"
+2019-04-17T21:05:09+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:09 +0000] "POST /schedule.json HTTP/1.1" 200 102 "-" "curl/7.58.0"
+2019-04-17T21:05:11+0800 [-] Process started:  project='csdn' spider='csdn_first' job='6c6ecf70611111e9ab2bd0577b09417e' pid=11784 log='logs/csdn/csdn_first/6c6ecf70611111e9ab2bd0577b09417e.log' items=None
+2019-04-17T21:05:12+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:12 +0000] "POST /schedule.json HTTP/1.1" 200 102 "-" "curl/7.58.0"
+2019-04-17T21:05:16+0800 [-] Process started:  project='csdn' spider='csdn_first' job='6dd2f44a611111e9ab2bd0577b09417e' pid=11794 log='logs/csdn/csdn_first/6dd2f44a611111e9ab2bd0577b09417e.log' items=None
+2019-04-17T21:05:19+0800 [-] Process finished:  project='csdn' spider='csdn_first' job='6dd2f44a611111e9ab2bd0577b09417e' pid=11794 log='logs/csdn/csdn_first/6dd2f44a611111e9ab2bd0577b09417e.log' items=None
+2019-04-17T21:05:21+0800 [-] Process started:  project='csdn' spider='csdn_first' job='6f8d22f6611111e9ab2bd0577b09417e' pid=12134 log='logs/csdn/csdn_first/6f8d22f6611111e9ab2bd0577b09417e.log' items=None
+2019-04-17T21:05:23+0800 [-] Process finished:  project='csdn' spider='csdn_first' job='6c6ecf70611111e9ab2bd0577b09417e' pid=11784 log='logs/csdn/csdn_first/6c6ecf70611111e9ab2bd0577b09417e.log' items=None
+2019-04-17T21:05:28+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:27 +0000] "GET / HTTP/1.1" 200 712 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T21:05:28+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:28 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://47.100.242.10:6800/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T21:05:30+0800 [-] Process finished:  project='csdn' spider='csdn_first' job='6f8d22f6611111e9ab2bd0577b09417e' pid=12134 log='logs/csdn/csdn_first/6f8d22f6611111e9ab2bd0577b09417e.log' items=None
+2019-04-17T21:05:31+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:30 +0000] "GET /jobs HTTP/1.1" 200 1945 "http://47.100.242.10:6800/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T21:05:33+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:32 +0000] "GET /logs/csdn/csdn_first/7815b522610d11e9ab2bd0577b09417e.log HTTP/1.1" 200 4163 "http://47.100.242.10:6800/jobs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T21:05:38+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:38 +0000] "GET /logs/csdn/csdn_first/7a0e5da2610d11e9ab2bd0577b09417e.log HTTP/1.1" 200 4163 "http://47.100.242.10:6800/jobs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T21:05:44+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:05:43 +0000] "GET /logs/csdn/csdn_first/7b86f5ea610d11e9ab2bd0577b09417e.log HTTP/1.1" 200 4161 "http://47.100.242.10:6800/jobs" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+2019-04-17T21:08:33+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:08:32 +0000] "GET / HTTP/1.1" 200 712 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36"
+2019-04-17T21:08:33+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:08:32 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://47.100.242.10:6800/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36"
+2019-04-17T21:08:36+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:08:35 +0000] "GET /jobs HTTP/1.1" 200 1945 "http://47.100.242.10:6800/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36"
+2019-04-17T21:08:41+0800 [twisted.python.log#info] "127.0.0.1" - - [17/Apr/2019:13:08:40 +0000] "GET /logs/csdn/csdn_first/7815b522610d11e9ab2bd0577b09417e.log HTTP/1.1" 200 4163 "http://47.100.242.10:6800/jobs" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36"
+2019-04-17T21:09:41+0800 [twisted.web.http.HTTPChannel#info] Timing out client: IPv4Address(TCP, '127.0.0.1', 41180)
+2019-04-17T21:19:28+0800 [-] Received SIGTERM, shutting down.
+2019-04-17T21:19:28+0800 [-] (TCP Port 6800 Closed)
+2019-04-17T21:19:28+0800 [twisted.web.server.Site#info] Stopping factory <twisted.web.server.Site instance at 0x7fe01173d368>
+2019-04-17T21:19:28+0800 [-] Main loop terminated.
+2019-04-17T21:19:28+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.

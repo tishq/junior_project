@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:orientation="vertical">
+     <SearchView
+      android:id="@+id/searchView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:iconifiedByDefault="true"
+      android:queryHint="搜索内容"/>
+
+<!--<TextView-->
+    <!--android:id="@+id/testView1"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="25pt"-->
+    <!--android:text="第一篇文章-孙相鹏"-->
+    <!--android:textSize="15pt"/>-->
+<!--<TextView-->
+        <!--android:id="@+id/testView2"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="25pt"-->
+        <!--android:text="第二篇文章-孙相鹏"-->
+        <!--android:textSize="15pt"/>-->
+<!--<TextView-->
+        <!--android:id="@+id/testView3"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="25pt"-->
+        <!--android:text="第三篇文章-孙相鹏"-->
+        <!--android:textSize="15pt"/>-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="#0E6DB0"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/llChat"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivChioce"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/choice" />
+
+            <TextView
+                android:id="@+id/tvChioce"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="推荐"/>
+                <!--android:textColor="#FF4081" -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llFriends"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivFind"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/find" />
+
+            <TextView
+                android:id="@+id/tvFind"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="发现"/>
+                <!--android:textColor="@drawable/find" -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llContacts"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivCommunity"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/community" />
+
+            <TextView
+                android:id="@+id/tvCommunity"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="社区" />
+                <!--android:textColor="@drawable/community" -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llSettings"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivMy"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/my" />
+
+            <TextView
+                android:id="@+id/tvMy"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="我的"/>
+                <!--android:textColor="@drawable/my" -->
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
