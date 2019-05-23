@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94cc5614-8dd1-4516-9c13-07558bd581ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csdn/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/csdn/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es_py/es_py2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es_py/es_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/es_py/es_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-rest-crud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flask-rest-crud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-rest-crud/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flask-rest-crud/app.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="csdn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/es_py/es_py1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/es_py/es_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csdn/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csdn/spiders/csdn_first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1504">
+              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csdn/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>default</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/csdn/spiders/aa.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/af.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/aaa.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/aaaaa.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/adfs.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/fadsf.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/dfaff.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/asdfff.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/aasfsdf.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/asdfaff.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/asdf.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/adf.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/asdfaf.py" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/csdn/spiders/test.py" />
+        <option value="$PROJECT_DIR$/csdn/pipelines.py" />
+        <option value="$PROJECT_DIR$/csdn/spiders/csdn_first.py" />
+        <option value="$PROJECT_DIR$/es_dsl.py" />
+        <option value="$PROJECT_DIR$/es_dsl/es_dsl.py" />
+        <option value="$PROJECT_DIR$/es_py/es_py2.py" />
+        <option value="$PROJECT_DIR$/csdn/settings.py" />
+        <option value="$PROJECT_DIR$/es_py/es_py1.py" />
+        <option value="$PROJECT_DIR$/csdn/items.py" />
+        <option value="$PROJECT_DIR$/es_py/es_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="43" />
+    <option name="y" value="32" />
+    <option name="width" value="939" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="csdn-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csdn-elasticsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csdn-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csdn-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csdn-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csdn-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csdn-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csdn-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="es_dsl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csdn-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csdn-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="es_py" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/es_dsl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.es_test">
+    <configuration name="csdn_first" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csdn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csdn/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csdn/spiders/csdn_first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_dsl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csdn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/es_dsl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_dsl/es_dsl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_py1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csdn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/es_py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_py/es_py1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csdn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/es_py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_py/es_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.es_test" />
+        <item itemvalue="Python.es_py1" />
+        <item itemvalue="Python.es_dsl" />
+        <item itemvalue="Python.csdn_first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94cc5614-8dd1-4516-9c13-07558bd581ef" name="Default Changelist" comment="" />
+      <created>1555042850711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555042850711</updated>
+      <workItem from="1555042851955" duration="2655000" />
+      <workItem from="1555048775279" duration="441000" />
+      <workItem from="1555049315647" duration="369000" />
+      <workItem from="1555069959446" duration="25000" />
+      <workItem from="1555075918676" duration="5000" />
+      <workItem from="1555294250657" duration="19000" />
+      <workItem from="1555499093929" duration="6850000" />
+      <workItem from="1555506995456" duration="435000" />
+      <workItem from="1555514391245" duration="469000" />
+      <workItem from="1555544271559" duration="1764000" />
+      <workItem from="1555546790666" duration="200000" />
+      <workItem from="1555547021865" duration="107000" />
+      <workItem from="1555567293805" duration="1238000" />
+      <workItem from="1555568549300" duration="5157000" />
+      <workItem from="1555577210734" duration="4503000" />
+      <workItem from="1555583727029" duration="141000" />
+      <workItem from="1555583881486" duration="13668000" />
+      <workItem from="1555632548474" duration="5572000" />
+      <workItem from="1555655366153" duration="1767000" />
+      <workItem from="1555584000766" duration="560000" />
+      <workItem from="1555599616909" duration="800000" />
+      <workItem from="1555633975772" duration="908000" />
+      <workItem from="1555648367194" duration="602000" />
+      <workItem from="1555665224654" duration="516000" />
+      <workItem from="1555665766982" duration="125000" />
+      <workItem from="1555670208324" duration="29000" />
+      <workItem from="1555670272610" duration="634000" />
+      <workItem from="1555671886614" duration="168000" />
+      <workItem from="1555672242700" duration="301000" />
+      <workItem from="1555672661774" duration="68000" />
+      <workItem from="1555672863925" duration="67000" />
+      <workItem from="1555672949675" duration="45000" />
+      <workItem from="1555673352295" duration="116000" />
+      <workItem from="1555673646032" duration="95000" />
+      <workItem from="1555673761956" duration="30000" />
+      <workItem from="1555673839679" duration="56000" />
+      <workItem from="1555673908387" duration="93000" />
+      <workItem from="1555674044356" duration="50000" />
+      <workItem from="1555674141918" duration="87000" />
+      <workItem from="1555674295804" duration="46000" />
+      <workItem from="1555674381744" duration="17000" />
+      <workItem from="1555674456326" duration="14000" />
+      <workItem from="1555674496524" duration="60000" />
+      <workItem from="1555674579255" duration="96000" />
+      <workItem from="1555674758044" duration="73000" />
+      <workItem from="1555674983398" duration="116000" />
+      <workItem from="1555681384429" duration="111000" />
+      <workItem from="1555747814161" duration="35000" />
+      <workItem from="1555747870304" duration="62000" />
+      <workItem from="1555749816455" duration="224000" />
+      <workItem from="1555828951167" duration="106000" />
+      <workItem from="1555829104569" duration="4156000" />
+      <workItem from="1555838207050" duration="1843000" />
+      <workItem from="1555855826931" duration="2786000" />
+      <workItem from="1555894440782" duration="1305000" />
+      <workItem from="1555898215579" duration="4102000" />
+      <workItem from="1555924356562" duration="298000" />
+      <workItem from="1555999062822" duration="714000" />
+      <workItem from="1556010264133" duration="2682000" />
+      <workItem from="1556017298515" duration="431000" />
+      <workItem from="1557227378086" duration="1200000" />
+      <workItem from="1557384856672" duration="234000" />
+      <workItem from="1557493139735" duration="866000" />
+      <workItem from="1557833481143" duration="123000" />
+      <workItem from="1557833630656" duration="2798000" />
+      <workItem from="1557908452288" duration="4660000" />
+      <workItem from="1557913587320" duration="237000" />
+      <workItem from="1557965073662" duration="1308000" />
+      <workItem from="1558057750710" duration="1858000" />
+      <workItem from="1558160538238" duration="676000" />
+      <workItem from="1558168426372" duration="71000" />
+      <workItem from="1558258851214" duration="965000" />
+      <workItem from="1558265619356" duration="2109000" />
+      <workItem from="1558319803616" duration="1468000" />
+      <workItem from="1558322750551" duration="2065000" />
+      <workItem from="1558504408648" duration="3395000" />
+      <workItem from="1558525875032" duration="613000" />
+      <workItem from="1558614882881" duration="136000" />
+      <workItem from="1558617475348" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94680000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="32" width="1877" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21290678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Favorites" order="6" weight="0.32924107" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.31900454" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32928848" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/csdn_elasticsearch$es_test.coverage" NAME="es_test Coverage Results" MODIFIED="1558614891230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/es_py" />
+    <SUITE FILE_PATH="coverage/csdn_elasticsearch$es_dsl.coverage" NAME="es_dsl Coverage Results" MODIFIED="1558259677374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/es_dsl" />
+    <SUITE FILE_PATH="coverage/csdn_elasticsearch$es_py1.coverage" NAME="es_py1 Coverage Results" MODIFIED="1558320071973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/es_py" />
+    <SUITE FILE_PATH="coverage/csdn_elasticsearch$csdn_first.coverage" NAME="csdn_first Coverage Results" MODIFIED="1558259620195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn/spiders" />
+    <SUITE FILE_PATH="coverage/csdn$csdn_first.coverage" NAME="csdn_first Coverage Results" MODIFIED="1555594541173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn/spiders" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/twisted/internet/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15312">
+          <caret line="653" selection-start-line="653" selection-end-line="653" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nohup.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/aa.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/af.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/aaa.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/afdasdf" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/aaaaa.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/adfs.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/dfaff.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/asdfff.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/aasfsdf.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/asdf.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/adf.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/asdfaff.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/asdfaf.py" />
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/fadsf.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/spidermiddlewares/offsite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.json" />
+    <entry file="file://$PROJECT_DIR$/csdn.json" />
+    <entry file="file://$PROJECT_DIR$/es_dsl/es_dsl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es_dsl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="102" column="34" lean-forward="true" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/spiders/csdn_first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1504">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es_py/es_py2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csdn/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es_py/es_py1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es_py/es_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
