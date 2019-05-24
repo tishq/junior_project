@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="time">
+        <item>5mim</item>
+        <item>30mim</item>
+        <item>1hour以上</item>
+    </array>
+</resources>

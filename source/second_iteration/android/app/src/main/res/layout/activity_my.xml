@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/aaa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击设置头像" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.example.it.RoundImageView
+            android:id="@+id/image"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <!-- border_outside_color 外部圆圈的颜色 -->
+        <!-- border_inside_color 内部部圆圈的颜色 -->
+        <!-- border_thickness 外圆和内圆的宽度 -->
+        <com.example.it.RoundImageView
+            android:id="@+id/img2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+    <Button
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="我的资料"
+        android:gravity="center_vertical"
+
+        />
+<Button
+    android:id="@+id/collect"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:text="我的收藏"/>
+    <Button
+        android:id="@+id/note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="我的笔记"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="问题反馈"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="检测版本"/>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="#0E6DB0"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/llChat"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivChioce"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/choice" />
+
+            <TextView
+                android:id="@+id/tvChioce"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="推荐"/>
+            <!--android:textColor="#FF4081" -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llFriends"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivFind"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/find" />
+
+            <TextView
+                android:id="@+id/tvFind"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="发现"/>
+            <!--android:textColor="@drawable/find" -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llContacts"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivCommunity"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/community" />
+
+            <TextView
+                android:id="@+id/tvCommunity"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="社区" />
+            <!--android:textColor="@drawable/community" -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llSettings"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ivMy"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:background="#00000000"
+                android:src="@drawable/my" />
+
+            <TextView
+                android:id="@+id/tvMy"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="我的"/>
+            <!--android:textColor="@drawable/my" -->
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

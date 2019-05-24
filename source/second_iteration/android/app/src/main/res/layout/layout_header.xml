@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 第一个LinearLayout，充当父容器，要包揽两行，因此设置其 android:orientation为    纵向-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <!-- 第二个LinearLayout
+    android:gravity 表示该LinearLayout中的类容相对于该LinearLayout 水平居中
+    android:layout_gravity 表示的是该LinearLayout相对于它上面的父容器(这里是第一个LinearLayout)水平居中
+    -->
+    <LinearLayout android:id="@+id/toprow"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <TextView android:id="@+id/quna"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff9966ff"
+            android:textSize="25dp"
+            android:text="哈哈哈"/>
+
+        <!-- 用一个图片按钮 -->
+        <ImageButton android:id="@+id/goBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/my"/>
+    </LinearLayout>
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="啊啊啊啊啊"
+        android:textColor="#ff9966ff"
+        android:textSize="20dp"/>
+
+    <ListView android:id="@+id/list_places"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
