@@ -5,6 +5,7 @@ import com.example.demo.dao.PostContentDao;
 import com.example.demo.entity.Article;
 import com.example.demo.entity.PostContent;
 import com.example.demo.service.UserArticleService;
+import com.example.demo.util.BugsCollections;
 import com.example.demo.util.Encrypt;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -73,4 +74,5 @@ public class SearchArticleServiceApplicationTests {
         System.out.println(posts.getTotalElements());
         System.out.println(posts.getContent());
     }
+
 }

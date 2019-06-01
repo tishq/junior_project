@@ -35,4 +35,12 @@ public class CommunityPost {
 
     @Column
     private Date date;
+
+    public Date getDate(){
+        return (Date) date.clone();
+    }
+
+    public void setDate(Date date){
+        this.date = (Date) date.clone();
+    }
 }

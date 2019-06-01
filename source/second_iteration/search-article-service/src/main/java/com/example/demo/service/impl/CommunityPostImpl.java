@@ -25,16 +25,16 @@ public class CommunityPostImpl implements CommunityPostService {
     @Override
     public List<CommunityPost> showPostByTime(int page,int size) {
         Sort sort = new Sort(Sort.Direction.DESC,"date","replyCount");
-        Pageable pageable = PageRequest.of(page,size);
-        Page<CommunityPost> posts = communityPostDao.findAll(pageable, sort);
+        Pageable pageable = PageRequest.of(page,size,sort);
+        Page<CommunityPost> posts = communityPostDao.findAll(pageable);
         return posts.getContent();
     }
 
     @Override
     public List<CommunityPost> showPostByHeat(int page,int size) {
         Sort sort = new Sort(Sort.Direction.DESC,"replyCount","date");
-        Pageable pageable = PageRequest.of(page,size);
-        Page<CommunityPost> posts = communityPostDao.findAll(pageable, sort);
+        Pageable pageable = PageRequest.of(page,size,sort);
+        Page<CommunityPost> posts = communityPostDao.findAll(pageable);
         return posts.getContent();
     }
 }

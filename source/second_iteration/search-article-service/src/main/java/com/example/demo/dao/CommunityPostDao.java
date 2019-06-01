@@ -14,7 +14,8 @@ import java.util.List;
  **/
 public interface CommunityPostDao extends JpaRepository<CommunityPost,Integer> {
 
-    Page<CommunityPost> findAll(Pageable pageable, Sort sort);
+    @Override
+    Page<CommunityPost> findAll(Pageable pageable);
 
 
 }

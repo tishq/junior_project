@@ -3,7 +3,9 @@ package com.example.demo.entity;
 import lombok.Data;
 
 import javax.persistence.*;
+import javax.validation.constraints.Email;
 import java.util.Collection;
+import java.util.List;
 
 /**
  * @author sxp
@@ -23,13 +25,16 @@ public class User {
     @Column
     private String password;
 
+    @Email
+    private String email;
+
     @Column
     private byte gender;
 
     @Column
     private String tag;
 
-    //@Column
+    @Column
     private int authority = 1;
 
 }
