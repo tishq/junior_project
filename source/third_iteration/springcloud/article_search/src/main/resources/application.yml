@@ -1,0 +1,12 @@
+server:
+  port: 8401
+spring:
+  application:
+    name: article_search
+eureka:
+  instance:
+    prefer-ip-address: true #注册是服务使用IP地址
+  client:
+    service-url:
+#      defaultZone: http://localhost:8500/eureka/
+      defaultZone: http://ali.sxptx.cn:8001/eureka/
