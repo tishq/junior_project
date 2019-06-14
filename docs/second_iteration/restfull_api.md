@@ -4,7 +4,7 @@
 | ---- | ------------------------------------------------------- | -------------- | -------- | --------------------- | -------------------- |
 | 1    | 列出匹配关键词的十篇文章列表,给出每篇文章对应的匹配分数 | /articles      | get      | ?keyword=大数据       | http://tishq.cn:8401 |
 | 2    | 返回给userId用户推荐的文章id列表                        | /articles/reco | get      | ?userId=1             | http://tishq.cn:8401 |
-| 3    | 建立用户文章关系                                        | /kgr           | get      | ?userId=1&articleId=1 | http://tishq.cn:8401 |
+| 3    | 建立用户文章关系,返回<userId>like<articleId>            | /kgr           | get      | ?userId=1&articleId=1 | http://tishq.cn:8401 |
 | 4    |                                                         |                |          |                       |                      |
 | 5    |                                                         |                |          |                       |                      |
 |      |                                                         |                |          |                       |                      |
