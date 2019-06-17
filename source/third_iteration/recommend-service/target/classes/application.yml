@@ -1,0 +1,29 @@
+info:
+  head: head
+  body: body
+management:
+  endpoints:
+    web:
+      exposure:
+        #加载所有的端点，默认只加载了info、health
+        include: '*'
+  endpoint:
+    health:
+      showDetails: always
+    #可以关闭指定的端点
+    shutdown:
+      enabled: false
+server:
+  port: 8211
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://ali.sxptx.cn:8001/eureka/
+  instance:
+    hostname: sxptx.cn
+spring:
+  application:
+    name: recommend-service
+#sidecar:
+#  port: 3000
+#  healthUri: http://localhost:3000/health
