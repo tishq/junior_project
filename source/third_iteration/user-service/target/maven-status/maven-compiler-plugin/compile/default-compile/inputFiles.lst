@@ -1,0 +1,17 @@
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\controller\UserInfoController.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\dao\master\FavoriteDao.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\config\SlaveDataBase.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\service\impl\FavoriteServiceImpl.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\service\UserService.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\config\beanConfig.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\service\FavouriteService.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\controller\FavoriteController.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\controller\LoginController.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\dao\master\UserDao.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\dao\slave\UserDaoSlave.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\entity\User.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\dao\slave\FavoriteDaoSlave.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\config\MasterDataBase.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\UserApplication.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\util\Encrypt.java
+D:\IdeaProjects\distributed\user-service\src\main\java\com\example\demo\entity\Favorite.java

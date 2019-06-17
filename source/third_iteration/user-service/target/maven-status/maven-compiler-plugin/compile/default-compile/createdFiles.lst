@@ -1,0 +1,17 @@
+com\example\demo\dao\slave\FavoriteDaoSlave.class
+com\example\demo\dao\slave\UserDaoSlave.class
+com\example\demo\entity\User.class
+com\example\demo\dao\master\UserDao.class
+com\example\demo\util\Encrypt.class
+com\example\demo\config\SlaveDataBase.class
+com\example\demo\service\UserService.class
+com\example\demo\controller\UserInfoController.class
+com\example\demo\service\FavouriteService.class
+com\example\demo\UserApplication.class
+com\example\demo\dao\master\FavoriteDao.class
+com\example\demo\service\impl\FavoriteServiceImpl.class
+com\example\demo\config\MasterDataBase.class
+com\example\demo\entity\Favorite.class
+com\example\demo\config\beanConfig.class
+com\example\demo\controller\LoginController.class
+com\example\demo\controller\FavoriteController.class
