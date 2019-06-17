@@ -1,0 +1,16 @@
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\service\PostContentService.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\service\CommunityPostService.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\entity\CommunityPost.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\config\SlaveDataBase.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\controller\CommunityPostController.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\dao\master\PostContentDao.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\CommunityApplication.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\service\impl\PostContentServiceImpl.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\dao\slave\PostContentDaoSlave.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\entity\PostContent.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\config\beanConfig.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\config\MasterDataBase.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\service\impl\CommunityPostImpl.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\controller\PostContentController.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\dao\slave\CommunityPostDaoSlave.java
+D:\IdeaProjects\distributed\Community-service\src\main\java\com\example\demo\dao\master\CommunityPostDao.java

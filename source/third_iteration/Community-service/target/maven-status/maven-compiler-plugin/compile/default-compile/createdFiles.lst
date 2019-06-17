@@ -1,0 +1,16 @@
+com\example\demo\dao\master\PostContentDao.class
+com\example\demo\entity\PostContent.class
+com\example\demo\service\impl\CommunityPostImpl.class
+com\example\demo\config\SlaveDataBase.class
+com\example\demo\entity\CommunityPost.class
+com\example\demo\dao\slave\PostContentDaoSlave.class
+com\example\demo\controller\CommunityPostController.class
+com\example\demo\CommunityApplication.class
+com\example\demo\config\MasterDataBase.class
+com\example\demo\controller\PostContentController.class
+com\example\demo\service\PostContentService.class
+com\example\demo\service\CommunityPostService.class
+com\example\demo\service\impl\PostContentServiceImpl.class
+com\example\demo\config\beanConfig.class
+com\example\demo\dao\master\CommunityPostDao.class
+com\example\demo\dao\slave\CommunityPostDaoSlave.class
