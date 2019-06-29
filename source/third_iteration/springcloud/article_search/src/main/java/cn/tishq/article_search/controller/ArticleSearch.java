@@ -39,7 +39,7 @@ public class ArticleSearch {
         //headers.add("Accept", MediaType.APPLICATION_JSON.toString());
 
 
-        String url = "http://localhost:5000/articles";
+        String url = "http://localhost:5001/articles";
 //        String url = "http://localhost:9200/es_py1/articles/_search";
         JSONObject postData = new JSONObject();
         postData.put("article_kwd", keyword);
