@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb16e3d-0379-41b2-8547-c8d690ca961f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,98 +55,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_search/src/main/java/cn/tishq/article_search/ArticleSearchApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_search/src/main/java/cn/tishq/article_search/config/Myconfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_search/src/main/java/cn/tishq/article_search/controller/ArticleSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_search/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/search2/src/main/java/com/example/search2/Search2Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/recommend">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-              <filtering>
-                <filter text="" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/ARTICLES">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-              <filtering>
-                <filter text="" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_ARTICLES.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7656" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_ARTICLES.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1056" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -216,9 +120,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,7 +144,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,15 +204,17 @@
       <workItem from="1561679997988" duration="591000" />
       <workItem from="1561703117105" duration="408000" />
       <workItem from="1561706014421" duration="1673000" />
+      <workItem from="1561948288583" duration="55000" />
+      <workItem from="1561950041444" duration="30000" />
+      <workItem from="1561962925616" duration="159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24464000" />
+    <option name="totallyTimeSpent" value="24708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="32" width="1877" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -316,9 +222,8 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24048539" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24048539" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" weight="0.32942554" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32942554" />
@@ -326,7 +231,7 @@
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3282532" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3282532" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -335,6 +240,7 @@
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32942554" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32942554" />
       <window_info anchor="bottom" id="Graph Database Console" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32942554" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -442,6 +348,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/PERSON" />
+    <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/test_PERSON" />
+    <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/test_ARTICLES" />
     <entry file="file://$PROJECT_DIR$/article_search/src/main/java/cn/tishq/article_search/ArticleSearchApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -479,24 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/PERSON">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/test_PERSON">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search2/src/main/java/com/example/search2/Search2Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -506,39 +397,26 @@
     </entry>
     <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/recommend">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/test_ARTICLES">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-          <filtering>
-            <filter text="" />
-          </filtering>
+        <state projectRestartId="1ac65277-46a5-4810-8fef-6359dfe2b803">
+          <filtering />
         </state>
       </provider>
     </entry>
     <entry file="das://746aa2a6-1dcc-47f4-bd60-e048b3c2135f/schema/test/table/ARTICLES">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="b103a337-a42b-4571-ad49-28dc14e7b4a5">
-          <filtering>
-            <filter text="" />
-          </filtering>
+        <state projectRestartId="1ac65277-46a5-4810-8fef-6359dfe2b803">
+          <filtering />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_ARTICLES.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7656" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_ARTICLES.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1056" />
+        <state relative-caret-position="352">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
       </provider>
     </entry>
   </component>
